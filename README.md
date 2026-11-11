@@ -1,2 +1,3 @@
 # vellum-utils
-Vellum programme support repository: vellum-utils
+
+Small shared helpers used by Vellum tooling.
